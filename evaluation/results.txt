@@ -1,0 +1,176 @@
+
+Timestamp: 2024-01-11 15:13:03.663868
+
+-------------------------EVALUATION-------------------------
+The Signal-to-noise ratio was found to be 27.49 dB.
+A ratio greater than 0 dB indicates more signal than noise.
+------------------------------------------------------------
+
+
+Timestamp: 2024-01-11 15:17:33.490805
+
+-------------------------EVALUATION-------------------------
+The Signal-to-noise ratio was found to be 27.49 dB.
+A ratio greater than 0 dB indicates more signal than noise.
+------------------------------------------------------------
+
+
+Timestamp: 2024-01-11 15:23:00.258885
+
+-------------------------EVALUATION-------------------------
+The Signal-to-noise ratio was found to be 27.49 dB.
+A ratio greater than 0 dB indicates more signal than noise.
+------------------------------------------------------------
+
+
+Timestamp: 2024-01-11 15:24:48.905548
+
+-------------------------EVALUATION-------------------------
+The Signal-to-noise ratio was found to be 27.49 dB.
+A ratio greater than 0 dB indicates more signal than noise.
+------------------------------------------------------------
+
+
+Timestamp: 2024-01-11 15:45:17.490325
+
+-------------------------EVALUATION-------------------------
+The Signal-to-noise ratio was found to be 22.16 dB.
+A ratio greater than 0 dB indicates more signal than noise.
+------------------------------------------------------------
+
+
+Timestamp: 2024-01-11 15:50:56.652049
+
+-------------------------EVALUATION-------------------------
+The Signal-to-noise ratio was found to be 3.64 dB.
+A ratio greater than 0 dB indicates more signal than noise.
+------------------------------------------------------------
+
+
+Timestamp: 2024-01-11 17:20:05.192291
+
+-------------------------EVALUATION-------------------------
+The Signal-to-noise ratio was found to be 3.64 dB.
+A ratio greater than 0 dB indicates more signal than noise.
+------------------------------------------------------------
+
+
+Timestamp: 2024-01-11 17:28:45.756289
+
+-------------------------EVALUATION-------------------------
+The Signal-to-noise ratio was found to be 27.49 dB.
+A ratio greater than 0 dB indicates more signal than noise.
+------------------------------------------------------------
+
+
+Timestamp: 2024-01-11 17:38:28.464035
+
+-------------------------EVALUATION-------------------------
+The Signal-to-noise ratio was found to be nan dB.
+A ratio greater than 0 dB indicates more signal than noise.
+------------------------------------------------------------
+
+
+Timestamp: 2024-01-11 17:42:16.041092
+
+-------------------------EVALUATION-------------------------
+The Signal-to-noise ratio was found to be 27.49 dB.
+A ratio greater than 0 dB indicates more signal than noise.
+------------------------------------------------------------
+
+
+Timestamp: 2024-01-11 17:49:25.562831
+
+-------------------------EVALUATION-------------------------
+The Signal-to-noise ratio was found to be 27.49 dB.
+A ratio greater than 0 dB indicates more signal than noise.
+------------------------------------------------------------
+
+
+Timestamp: 2024-01-11 17:57:14.752085
+
+-------------------------EVALUATION-------------------------
+The Signal-to-noise ratio was found to be 27.49 dB.
+A ratio greater than 0 dB indicates more signal than noise.
+------------------------------------------------------------
+
+
+Timestamp: 2024-01-11 18:00:06.539502
+
+-------------------------EVALUATION-------------------------
+The Signal-to-noise ratio was found to be 27.49 dB.
+A ratio greater than 0 dB indicates more signal than noise.
+------------------------------------------------------------
+
+
+Timestamp: 2024-01-12 11:56:55.562614
+
+-------------------------EVALUATION-------------------------
+The Signal-to-noise ratio was found to be 27.49 dB.
+A ratio greater than 0 dB indicates more signal than noise.
+------------------------------------------------------------
+
+
+Timestamp: 2024-01-13 18:07:56.716042
+
+-------------------------EVALUATION-------------------------
+The Signal-to-noise ratio was found to be 27.49 dB.
+A ratio greater than 0 dB indicates more signal than noise.
+------------------------------------------------------------
+
+
+Timestamp: 2024-01-14 19:06:12.460912
+
+-------------------------EVALUATION-------------------------
+The Signal-to-noise ratio was found to be 27.49 dB.
+A ratio greater than 0 dB indicates more signal than noise.
+------------------------------------------------------------
+
+
+Timestamp: 2024-01-15 08:13:09.153304
+
+-------------------------EVALUATION-------------------------
+The Signal-to-noise ratio was found to be 27.49 dB.
+A ratio greater than 0 dB indicates more signal than noise.
+------------------------------------------------------------
+
+
+Timestamp: 2024-01-15 08:17:30.631058
+
+-------------------------EVALUATION-------------------------
+The Signal-to-noise ratio was found to be 27.49 dB.
+A ratio greater than 0 dB indicates more signal than noise.
+------------------------------------------------------------
+
+
+Timestamp: 2024-01-15 09:39:27.779090
+
+-------------------------EVALUATION-------------------------
+The Signal-to-noise ratio was found to be 27.49 dB.
+A ratio greater than 0 dB indicates more signal than noise.
+------------------------------------------------------------
+
+
+Timestamp: 2024-01-15 09:45:12.804017
+
+-------------------------EVALUATION-------------------------
+The Signal-to-noise ratio was found to be 27.49 dB.
+A ratio greater than 0 dB indicates more signal than noise.
+------------------------------------------------------------
+
+
+Timestamp: 2024-01-15 09:49:32.318049
+
+-------------------------EVALUATION-------------------------
+The Signal-to-noise ratio was found to be 27.49 dB.
+A ratio greater than 0 dB indicates more signal than noise.
+------------------------------------------------------------
+
+
+Timestamp: 2024-01-15 10:02:59.530860
+
+-------------------------EVALUATION-------------------------
+The Signal-to-noise ratio was found to be 27.49 dB.
+A ratio greater than 0 dB indicates more signal than noise.
+------------------------------------------------------------
+
